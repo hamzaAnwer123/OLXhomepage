@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap');
+
+footer {
+
+
+    background-color: #ebeeef;
+
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+.footer {
+    background-color: #002f34;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.footer p {
+    padding: 20px;
+    margin-left: 950px;
+    color: white;
+
+}
+
+.about {
+    height: 200px;
+    width: 950px;
+}
+
+.about ul {
+    display: inline-block;
+    margin-left: 72px;
+    margin-top: 27px;
+
+}
+
+.about ul li {
+    list-style: none;
+    display: block;
+
+}
+.about ul li:hover {
+    color: cyan;
+}
+.right_about {
+    float: right;
+    display: flex;
+    bottom: 183px;
+    position: relative;
+
+}
+.right_about h4{
+    position: relative;
+left: 261px;
+
+
+}
+.wab_link img {
+    width: 100px;
+    height: 29px;
+    position: relative;
+    top: 120px;
+    right: 20px;
+  cursor: pointer;
+
+}
+.app img {
+    width: 28px;
+  height: 28px;
+  position: relative;
+  left: 172px;
+  top: 29px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
